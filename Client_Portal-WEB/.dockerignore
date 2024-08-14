@@ -1,0 +1,7 @@
+.cache
+.idea
+.vscode
+.yarn
+.history
+dist
+node_modules
